@@ -8,6 +8,7 @@ Este proyecto se fundamenta en la necesidad de ofrecer una solución profesional
 - **Analisis exploratorio (EDA)**
 - **Prueba de hipotesis**
 - **Modelo de regresion logistica**
+- **Modelo de Machine Learnig**
 
 
 ## Resumen
@@ -15,4 +16,5 @@ Este proyecto se fundamenta en la necesidad de ofrecer una solución profesional
 - **Propuesta de proyecto TikTok**
 - **Resumen ejecutivo EDA**
 - **Resumen regresion**
+
 
